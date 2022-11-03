@@ -1,0 +1,5 @@
+D:\Dummy\DependencyInjection\DAL\bin\Debug\DAL.dll
+D:\Dummy\DependencyInjection\DAL\bin\Debug\DAL.pdb
+D:\Dummy\DependencyInjection\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Dummy\DependencyInjection\DAL\obj\Debug\DAL.dll
+D:\Dummy\DependencyInjection\DAL\obj\Debug\DAL.pdb

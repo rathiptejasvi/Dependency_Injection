@@ -1,0 +1,9 @@
+D:\Dummy\DependencyInjection\Services\bin\Debug\Services.dll
+D:\Dummy\DependencyInjection\Services\bin\Debug\Services.pdb
+D:\Dummy\DependencyInjection\Services\bin\Debug\DAL.dll
+D:\Dummy\DependencyInjection\Services\bin\Debug\DAL.pdb
+D:\Dummy\DependencyInjection\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\Dummy\DependencyInjection\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Dummy\DependencyInjection\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Dummy\DependencyInjection\Services\obj\Debug\Services.dll
+D:\Dummy\DependencyInjection\Services\obj\Debug\Services.pdb
